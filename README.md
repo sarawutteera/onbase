@@ -1,2 +1,2 @@
 # onbase
-onchainkit,wagmicli
+onchainkit,wagmicli,coinbase
